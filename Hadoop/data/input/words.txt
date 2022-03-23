@@ -1,0 +1,4 @@
+hello world I love java
+i am a data developer
+hadoop is an excellent compute framework and a big data basic platform
+it consists of three parts that is compute storage and resource schedule
